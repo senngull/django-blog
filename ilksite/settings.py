@@ -25,7 +25,7 @@ SECRET_KEY = '9l=$x^rjjs+n=j+*j^-1q2_70)-qcj!0%bgj8$g+(*pxmk*2lj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['senngull.pythonanywhere.com']
 
 
 # Application definition
